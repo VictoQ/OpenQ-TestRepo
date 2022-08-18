@@ -67,3 +67,4 @@ chapeau pointu
 manteau bleu
 barbe
 bucheron
+hâche
