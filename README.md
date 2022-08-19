@@ -70,3 +70,4 @@ bucheron
 hâche
 parmentier
 Patate
+encore
