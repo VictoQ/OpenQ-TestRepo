@@ -72,3 +72,4 @@ parmentier
 Patate
 encore
 chaud
+froid
