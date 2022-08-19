@@ -69,3 +69,4 @@ barbe
 bucheron
 hâche
 parmentier
+laasagne
