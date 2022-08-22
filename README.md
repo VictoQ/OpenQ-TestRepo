@@ -73,3 +73,4 @@ Patate
 encore
 chaud
 froid
+tiède
