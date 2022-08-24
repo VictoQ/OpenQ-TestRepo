@@ -84,6 +84,9 @@ jouet
 animal
 spacey
 nicely
+
+slowly
+
 timelag
 spaceship
 flying
