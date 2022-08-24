@@ -97,3 +97,4 @@ joyeux
 to your galaxy
 ola
 ciao
+salute
