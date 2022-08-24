@@ -89,3 +89,4 @@ spaceship
 flying
 landing
 on water
+sunny
