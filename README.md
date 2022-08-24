@@ -81,3 +81,4 @@ toupet
 bilboquet
 bille
 jouet
+animal
