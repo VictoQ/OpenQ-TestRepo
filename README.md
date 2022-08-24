@@ -90,3 +90,4 @@ flying
 landing
 on water
 sunny
+cloudy
