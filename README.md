@@ -92,3 +92,4 @@ on water
 sunny
 cloudy
 rainy
+joyeux
