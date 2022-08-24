@@ -100,3 +100,4 @@ ciao
 salute
 jurassic park
 dinosaur
+tale
