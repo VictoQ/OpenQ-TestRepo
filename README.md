@@ -82,3 +82,4 @@ bilboquet
 bille
 jouet
 animal
+wild
