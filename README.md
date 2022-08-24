@@ -84,4 +84,17 @@ jouet
 animal
 spacey
 nicely
+
 slowly
+
+timelag
+spaceship
+flying
+landing
+on water
+sunny
+cloudy
+rainy
+joyeux
+to your galaxy
+ola
