@@ -84,3 +84,4 @@ jouet
 animal
 spacey
 nicely
+slowly
