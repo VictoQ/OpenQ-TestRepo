@@ -84,9 +84,7 @@ jouet
 animal
 spacey
 nicely
-
 slowly
-
 timelag
 spaceship
 flying
@@ -98,5 +96,4 @@ rainy
 joyeux
 to your galaxy
 ola
-
 ciao
