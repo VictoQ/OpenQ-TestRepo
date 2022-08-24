@@ -75,3 +75,4 @@ chaud
 froid
 tiède
 eau
+coco
