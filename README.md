@@ -71,6 +71,9 @@ hâche
 parmentier
 Patate
 encore
+
+mais pk
+
 chaud
 froid
 tiède
@@ -118,3 +121,4 @@ third winner yolo
 fourth
 fifth
 opa
+
