@@ -71,4 +71,54 @@ hâche
 parmentier
 Patate
 encore
+
 mais pk
+
+chaud
+froid
+tiède
+eau
+coco
+perroquet
+toupet
+bilboquet
+bille
+jouet
+animal
+spacey
+nicely
+slowly
+timelag
+spaceship
+flying
+landing
+on water
+sunny
+cloudy
+rainy
+joyeux
+to your galaxy
+ola
+ciao
+salute
+jurassic park
+dinosaur
+tale
+radiohead
+one
+two
+three
+four
+five
+six
+Wallaaaa
+second winner go
+
+yolo
+
+third winner yolo
+
+fourth
+fifth
+opa
+
