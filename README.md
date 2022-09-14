@@ -145,3 +145,4 @@ fleurs
 pique
 coeur
 carreau
+carrot
