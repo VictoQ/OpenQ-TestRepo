@@ -148,3 +148,4 @@ carreau
 carrot
 bunny
 sunny
+star
