@@ -155,3 +155,4 @@ bully
 worry
 flowery
 fleurs
+Flamboyant
