@@ -69,6 +69,9 @@ barbe
 bucheron
 hâche
 parmentier
+
+laasagne
+
 Patate
 encore
 
@@ -159,3 +162,4 @@ Flamboyant
 flamby
 flemmard
 lolita
+
