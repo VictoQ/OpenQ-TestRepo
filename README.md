@@ -69,4 +69,97 @@ barbe
 bucheron
 hâche
 parmentier
+
 laasagne
+
+Patate
+encore
+
+mais pk
+
+chaud
+froid
+tiède
+eau
+coco
+perroquet
+toupet
+bilboquet
+bille
+jouet
+animal
+spacey
+nicely
+slowly
+timelag
+spaceship
+flying
+landing
+on water
+sunny
+cloudy
+rainy
+joyeux
+to your galaxy
+ola
+ciao
+salute
+jurassic park
+dinosaur
+tale
+radiohead
+one
+two
+three
+four
+five
+six
+Wallaaaa
+second winner go
+
+yolo
+
+third winner yolo
+
+fourth
+fifth
+opa
+mamie
+mie de pain
+pain perdu
+
+cibo
+bere
+beer
+bro
+bambino
+terra
+tactile
+repas
+pain 
+vechnui xleb
+beliaiev
+Bulgakov
+boohbooh
+panda
+bear
+market
+fleurs
+pique
+coeur
+carreau
+carrot
+bunny
+sunny
+star
+Balloon
+bubble
+bully
+worry
+flowery
+fleurs
+Flamboyant
+flamby
+flemmard
+lolita
+
