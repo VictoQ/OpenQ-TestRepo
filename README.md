@@ -173,3 +173,4 @@ O ma lod
 I'm claiming once
 claim winner 1 
 claim another time on split price
+Claim tier 1
